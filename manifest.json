@@ -1,0 +1,26 @@
+{
+  "name": "Rutina Luis — Iso + Hipertrofia",
+  "short_name": "Rutina Luis",
+  "description": "Rutina de 5 días: Isométricos + Hipertrofia. Diseñada para Luis, 50 años, post-LCA +10 años.",
+  "start_url": "./FITNESS.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1117",
+  "theme_color": "#0f1117",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
